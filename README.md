@@ -29,35 +29,7 @@ Female vs Male | treatment 2.
 
 - Based on this pvalue – do we need to update model (simplify it)? Why?
 
-*Confidence intervals should be derived using Wald method for both items.
-
-Template for the layout:
-
- 
-
-                                                      Logistic regression for subjects response
-
- 
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-                                                                                                                                    
-
-RESPONSE RATE                                                                                                    
-
- 
-
-ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2                               0.59 (0.25, 1.37)                    
-
-ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Female)                      0.59 (0.25, 1.37)                    
-
-ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Male)                        0.59 (0.25, 1.37)                    
-
-ODDS RATIO (95% CI): Female VS. Male (Treatment 1)                             0.59 (0.25, 1.37)                    
-
-ODDS RATIO (95% CI): Female VS. Male (Treatment 2)                             0.59 (0.25, 1.37)                    
-
-INTERACTION P-VALUE                                                            0.0019                               
+*Confidence intervals should be derived using Wald method for both items.             
 
 ## Task 2 (file "solution.ipybn").
 
@@ -73,3 +45,5 @@ N – integer
 Min, max – same precision as in dataset (1 decimal point)
 Median, mean, standard deviation - +1 digit to data precision
 Percent should be rounded up to 1 digit after decimal point.
+
+Both solutions are presented in specified template format.

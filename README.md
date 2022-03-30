@@ -1,6 +1,6 @@
 # Test assignment for Parexel.
 
-##Task 1 (file "solution_resp.ipybn"). 
+## Task 1 (file "solution_resp.ipybn"). 
 
 1. Create logistic regression model with Response (responder / non-responder binomial variable, where response is an event) as dependent variable and Intercept and Treatment as independent variables.
 
@@ -73,69 +73,3 @@ N – integer
 Min, max – same precision as in dataset (1 decimal point)
 Median, mean, standard deviation - +1 digit to data precision
 Percent should be rounded up to 1 digit after decimal point.
-
-The following template should be used (once again reasonable deviations from the template are acceptable)
-
-                                                          Iris Flower Summary                                                  
-
-                                                              All Flowers                                                       
-
---------------------------------------------------------------------------------------------------------------------------------
-
-                                                Iris Setosa        Iris Versicolor       Iris Virginica             Total        
-
-                                                  N = 1113              N = 1111              N = 1107              N = 3331       
-
---------------------------------------------------------------------------------------------------------------------------------   
-
-SEPAL LENGTH [CM]                                                                                                                       
-
-  N                                               1113                  1111                  1107                  3331           
-
-  MEAN                                              72                    71                    72                    72           
-
-  MIN                                               94                    95                    94                    95              
-
-  MEDIAN                                            72                    71                    71                    71           
-
-  MAX                                               94                    95                    94                    95              
-
-  STANDARD DEVIATION                                 7.2                   7.4                   6.8                   7.1         
-
-                                                                                                                                     
-
-SEPAL LENGTH (%)                                                                                                             
-
-  < 5                                              192 ( 17.3)           203 ( 18.3)           201 ( 18.2)           596 ( 17.9)
-
-  >=5 AND <6                                       xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
-
-  >=6 AND <7                                       xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
-
-  >= 7                                             xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x) 
-
- 
-
-SEPAL WIDTH [CM]                                                                                                                        
-
-  N                                               1113                  1111                  1107                  3331           
-
-  MEAN                                              72                    71                    72                    72           
-
-  MIN                                               94                    95                    94                    95              
-
-  MEDIAN                                            72                    71                    71                    71           
-
-  MAX                                               94                    95                    94                    95              
-
-  STANDARD DEVIATION                                 7.2                   7.4                   6.8                   7.1         
-
-                                                                                                                                     
-
-SEPAL WIDTH (%)                                                                                                             
-
-  < 3                                              192 ( 17.3)           203 ( 18.3)           201 ( 18.2)           596 ( 17.9)
-
-  >=3 AND <3.5                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)   
-
-  >=3.5 AND <4                                     xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)           xxx ( xx.x)    
